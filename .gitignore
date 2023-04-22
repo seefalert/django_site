@@ -1,6 +1,5 @@
 # created by virtualenv automatically
-/venv/
-/.idea/
+
 
 # Django #
 *.log
@@ -108,6 +107,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea/
 
 # mkdocs documentation
 /site
