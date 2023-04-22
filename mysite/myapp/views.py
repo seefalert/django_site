@@ -1,6 +1,6 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-# Create your views here.
+# myapp/views.py
 
-def hello(request):
-	return HttpResponse('Hello world!')
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Hello, world!")
