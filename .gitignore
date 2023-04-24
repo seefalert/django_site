@@ -109,6 +109,7 @@ fabric.properties
 /venv/Scripts/isort.exe
 /venv/Scripts/isort-identify-imports.exe
 /.idea/misc.xml
+/.idea/encodings.xml
 /.idea/modules.xml
 /venv/Scripts/pip.exe
 /venv/Scripts/pip3.11.exe
