@@ -29,6 +29,8 @@ def profile(request):
             user_form.save()
             profile_form.save()
             messages.success(request, 'Your profile has been successfully updated.')
+            return redirect('profile')
+
     else:
         user_form = UserUpdateForm(instance=request.user)
         profile_form = ProfileUpdateForm(instance=request.user.profile)
