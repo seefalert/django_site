@@ -132,3 +132,4 @@ fabric.properties
 /venv/Scripts/wheel3.11.exe
 /venv/Scripts/wheel3.exe
 /venv/Scripts/wheel-3.11.exe
+/mysite/posts.json
