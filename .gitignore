@@ -133,3 +133,4 @@ fabric.properties
 /venv/Scripts/wheel3.exe
 /venv/Scripts/wheel-3.11.exe
 /mysite/posts.json
+/mysite/my_site/settings.py
